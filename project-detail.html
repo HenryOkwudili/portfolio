@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Auth Portal Case Study | Henry Okwudili</title>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">HO.</div>
+            <ul>
+                <li><a href="index.html#about">About</a></li>
+                <li><a href="index.html#projects">Projects</a></li>
+                <li><a href="index.html#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="detail-container">
+        
+        <a href="index.html#projects" class="back-link">← Back to Projects</a>
+
+        <section class="project-header">
+            <h1>Authentication & Shift Management Portal</h1>
+            <div class="tech-stack">
+                <span class="tag">Java</span>
+                <span class="tag">SQL</span>
+                <span class="tag">Security</span>
+            </div>
+        </section>
+
+        <div class="case-study-grid">
+            
+            <div class="case-text">
+                <h2>The Problem</h2>
+                <p>
+                    Organizations often struggle with managing user access securely while scheduling shifts. 
+                    Existing tools were either too expensive or lacked specific security controls needed 
+                    for role-based access.
+                </p>
+
+                <h2>The Solution</h2>
+                <p>
+                    I built a secure portal that handles user registration, login, and shift allocation. 
+                    The system uses role-based access control (RBAC) to ensure employees can only view 
+                    their own data, while admins have full oversight.
+                </p>
+
+                <h2>Key Features</h2>
+                <ul class="feature-list">
+                    <li>Secure Password Hashing (SHA-256)</li>
+                    <li>Role-Based Access Control (Admin vs. User)</li>
+                    <li>Automated Shift Conflict Detection</li>
+                    <li>SQL Injection Prevention</li>
+                </ul>
+
+                <h2>What I Learned</h2>
+                <p>
+                    This project taught me the importance of input validation in preventing security vulnerabilities. 
+                    I also deepened my understanding of database normalization when designing the user/shift tables.
+                </p>
+            </div>
+
+            <div class="case-visuals">
+                   <img src="assets/asms-dashboard.png" alt="ASMS Dashboard Screenshot" class="detail-img">
+               
+                   <img src="assets/login.png" alt="ASMS Dashboard Screenshot" class="detail-img">
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Henry Okwudili</p>
+        <div class="social-links">
+            <a href="mailto:your-email@pau.edu.ng">Email</a>
+            <a href="https://github.com/yourusername">GitHub</a>
+        </div>
+    </footer>
+
+</body>
+</html>
