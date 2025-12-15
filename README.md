@@ -8,7 +8,7 @@
 This is a responsive personal portfolio website built to showcase my cybersecurity and software development projects. It highlights my work in log analysis, network scanning, and secure system architecture.
 
 ## Live Demo
-[Click here to view the live website](https://YOUR-NETLIFY-LINK-HERE.netlify.app)
+[Click here to view the live website](https://henryokwudiliportfolio.vercel.app/)
 
 ## Tech Stack
 * **Frontend:** Semantic HTML5, CSS3 (Flexbox & Grid), JavaScript (minimal)
