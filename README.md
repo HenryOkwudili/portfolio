@@ -21,8 +21,3 @@ This is a responsive personal portfolio website built to showcase my cybersecuri
 * **Project Showcase:** Gallery of cybersecurity tools with GitHub links.
 * **Case Study:** Dedicated detail page for the Auth & Shift Management System.
 * **Contact Form:** Functional contact form integrated with Netlify.
-
-## How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/my-portfolio.git](https://github.com/YOUR_USERNAME/my-portfolio.git)
