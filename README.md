@@ -11,13 +11,11 @@ This is a responsive personal portfolio website built to showcase my cybersecuri
 [Click here to view the live website](https://henryokwudiliportfolio.vercel.app/)
 
 ## Tech Stack
-* **Frontend:** Semantic HTML5, CSS3 (Flexbox & Grid), JavaScript (minimal)
+* **Frontend:** HTML5, CSS
 * **Design:** Custom Dark Mode with Cyber-Security aesthetic
-* **Deployment:** Netlify (Continuous Deployment via GitHub)
-* **Forms:** Netlify Forms (Serverless)
+* **Deployment:** Vercel (Continuous Deployment via GitHub)
 
 ## Features
 * **Fully Responsive:** Adapts to Mobile, Tablet, and Desktop.
-* **Project Showcase:** Gallery of cybersecurity tools with GitHub links.
+* **Project Showcase:** Gallery of projects with GitHub links.
 * **Case Study:** Dedicated detail page for the Auth & Shift Management System.
-* **Contact Form:** Functional contact form integrated with Netlify.
