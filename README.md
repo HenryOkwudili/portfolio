@@ -12,7 +12,7 @@ This is a responsive personal portfolio website built to showcase my cybersecuri
 
 ## Tech Stack
 * **Frontend:** HTML5, CSS
-* **Design:** Custom Dark Mode with Cyber-Security aesthetic
+* **Design:** Dark-blue theme with Cyber-Security aesthetic
 * **Deployment:** Vercel (Continuous Deployment via GitHub)
 
 ## Features
