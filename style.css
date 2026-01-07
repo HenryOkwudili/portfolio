@@ -87,10 +87,10 @@ section {
     border: 1px solid #334155;
 }
 
-.project-card:hover {
+/* .project-card:hover {
     transform: translateY(-5px);
     border-color: var(--accent-color);
-}
+} */
 
 /* .card-image {
     height: 150px;
